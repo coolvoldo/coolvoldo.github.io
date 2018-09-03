@@ -4,14 +4,14 @@ SEOTitle: 曹为的博客 | BY coolvoldo
 header-img: img/post-bg-desk.jpg
 email: coolvoldo@hotmail.com
 description: "Complexity is a symptom of confusion not a cause."
-keyword: "BY, BY Blog, 曹为的博客, coolvoldo, 曹为, Lego, c#, AI"
+keyword: "曹为的博客, coolvoldo, 曹为, Lego, c#, AI"
 url: "http://coolvoldo.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/coolvoldo/coolvoldo.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "Complexity is a symptom of confusion not a cause."
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
