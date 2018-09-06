@@ -6,7 +6,7 @@
 >
 ### [查看博客戳这里 👆](http://coolvoldo.github.io)
 
-
+<a href="http://coolvoldo.github.io" target="_blank">跳到我的博客</a>
 
 ## 使用
 
