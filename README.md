@@ -6,6 +6,10 @@
 >
 
 <a href="http://coolvoldo.github.io" target="_blank">跳到我的博客</a>
+<a href="http://coolvoldo.github.io" target="_blank">跳到我的博客2</a>
+
+[百度](http://coolvoldo.github.io){:target="_blank"}
+
 
 ## 使用
 
