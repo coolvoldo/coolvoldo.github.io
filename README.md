@@ -6,9 +6,7 @@
 >
 
 <a href="http://coolvoldo.github.io" target="_blank">跳到我的博客</a>
-<a href="http://coolvoldo.github.io" target="_blank">跳到我的博客2</a>
 
-[example](http://yinping4256.github.io){:target="_blank"}
 
 
 ## 使用
