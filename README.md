@@ -7,7 +7,7 @@
 
 <a href="http://coolvoldo.github.io" target="_blank">跳到我的博客</a>
 
-<a href="{:url('http://coolvoldo.github.io')}" target='_blank'>驾驶舱</a>
+<a href="http://coolvoldo.github.io" target='_blank'>驾驶舱</a>
 
 ## 使用
 
